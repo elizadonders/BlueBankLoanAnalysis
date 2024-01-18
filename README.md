@@ -8,4 +8,7 @@ https://finch-groundhog-9245.squarespace.com/s/loan_data_json.json
 Logo: (Blue Bank Logo.png)
 https://finch-groundhog-9245.squarespace.com/s/Blue-Bank-Logo.png
 
+The final projetc analysis in Tableau:
+https://public.tableau.com/shared/CZ3PFG5N4?:display_count=n&:origin=viz_share_link
+
 
