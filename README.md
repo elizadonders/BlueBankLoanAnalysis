@@ -9,6 +9,6 @@ Logo: (Blue Bank Logo.png)
 https://finch-groundhog-9245.squarespace.com/s/Blue-Bank-Logo.png
 
 The final projetc analysis in Tableau:
-https://public.tableau.com/shared/CZ3PFG5N4?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/elizabeth.donders/viz/BlueBank_17054273566430/BlueBankLoan
 
 
